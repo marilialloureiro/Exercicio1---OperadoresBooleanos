@@ -3,8 +3,8 @@ Trabalhando com operadores booleanos simples
 
 Modelos básicos:
 
-a < b; // a menor que b 
-a > b; // a maior que b 
+a < b; // a menor que b /n
+a > b; // a maior que b \n
 a <= b; // a menor ou igual b 
 b >= a; // b maior ou igual a
 a == b; // a igual b 
